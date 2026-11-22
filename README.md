@@ -31,6 +31,6 @@
 
 ### 📫 Kontakt / Contact
 
-- LinkedIn: [linkedin.com/in/DEIN-PROFIL](https://linkedin.com/in/DEIN-PROFIL)
-- E-Mail: dein@email.de
+- LinkedIn: [linkedin.com/in/holgerbrade](https://linkedin.com/in/holgerbrade)
+- E-Mail: holger@jduke.org
 
